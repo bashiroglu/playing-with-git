@@ -4,4 +4,11 @@
 const a = 5;
 ```
 
+```js
+const a = 5;
 
+function foo() {
+  console.log(a);
+}
+foo();
+```
